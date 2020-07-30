@@ -30,7 +30,7 @@ jetbrains全家桶永久激活破解，不需要修改host。完美破解！共�
 ![](screenshot/3.png)
 
 #### 破解方法3
-在插件目录中有个ide-eval-resetter-1.0.4.jar文件，同理拖到右边的工作区安装。再重启时一定要点击reset ide-eval-resetter，在打开软件的时候选择试用。之后每次打开软件，都会去刷新试用开始时间，让你无限试用。也可以手动刷新试用开始时间。
+在插件目录中有个ide-eval-resetter-1.0.4.jar文件，同理拖到右边的工作区安装。在打开软件的时候选择试用（Evaluate for free）。之后在你试用快过期的时候，在点击菜单栏的reset IntellIJ IDEAs eval，就会去刷新试用开始时间，然后重启，再次点击试用，让你无限次的试用。
 
 ![](screenshot/5.png)
 
