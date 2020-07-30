@@ -34,6 +34,10 @@ jetbrains全家桶永久激活破解，不需要修改host。完美破解！共�
 
 ![](screenshot/5.png)
 
+刷新后每次打开都点击试用
+
+![](screenshot/6.png)
+
 #### 切记
 * 如果之前在lib目录下已经有了jar文件，请一定要删除它！
 ![](screenshot/4.png)
